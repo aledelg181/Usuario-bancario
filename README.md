@@ -1,4 +1,4 @@
-﻿# my.jobs.front
+﻿# usuario bancario
 
 esta interfaz simula una seccion de "cuenta" como se visualiza comunmente en un homebanking personal
 al principio podemos visualizar nuestro saldo total en la parte superior. Ademas podemos percibir nuestros ingresos y nuestros egresos, calculando un porcentaje de egresos de acuerdo al total de ingresos .
